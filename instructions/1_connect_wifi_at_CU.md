@@ -6,3 +6,5 @@ The basic problem is that I can't boot into something that recognizes our Wifi; 
 Without some form of internet you can't ssh to the machine, or connect to the outside world. Maybe I could also try the wired internet on eth0? 
 
 When I switched to the 64-bit version of raspian with the GUI interface I was able to sign into CU Denver Guest in the usual way (when I opened a browser it took me to the "agree" page). I was not able to ssh to the machine even if I switched my laptop to CU Denver Guest. 
+
+Note that the CU Denver (secure) WiFi was greyed out when I tried to log in this way, it seems to be there but I can't select it. 
